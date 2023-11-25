@@ -4,7 +4,7 @@
 
 ## Currently finished in Repository:<br>
 
-Package 1:<br>
+### Package 1:<br>
 -Variables  <br>
 -Multiple assignment  <br>
 -String methods  <br>
@@ -16,7 +16,7 @@ Package 1:<br>
 -Logical operators  <br>
 -While loops  <br>
 
-Package 2:<br>
+### Package 2:<br>
 -For loops  <br>
 -Nested loops  <br>
 -Break continue pass  <br>
@@ -28,7 +28,7 @@ Package 2:<br>
 -Indexing  <br>
 -Functions  <br>
 
-Package 3:<br>
+### Package 3:<br>
 -Return statement  <br>
 -Keyword arguments  <br>
 -Nested function calls  <br>
@@ -40,7 +40,7 @@ Package 3:<br>
 -Exception handling  <br>
 -File detection  <br>
 
-Package 4:<br>
+### Package 4:<br>
 -Read a file  <br>
 -Write a file  <br>
 -Copy a file  <br>
@@ -52,7 +52,7 @@ Package 4:<br>
 -Object Oriented Programming (OOP)  <br>
 -Class variables  <br>
 
-Package 5:<br>
+### Package 5:<br>
 -Inheritance  <br>
 -Multilevel inheritance  <br>
 -Multiple inheritance  <br>
@@ -64,7 +64,7 @@ Package 5:<br>
 -Duck typing  <br>
 -Walrus operator  <br>
 
-Package 6:<br>
+### Package 6:<br>
 -Functions to variables  <br>
 -Higher order functions  <br>
 -Lambda  <br>
@@ -76,7 +76,7 @@ Package 6:<br>
 -Dictionary comprehensions  <br>
 -Zip function  <br>
 
-Package 7:<br>
+### Package 7:<br>
 -If name == '__main__'  <br>
 -Time module  <br>
 -Threading  <br>
@@ -88,7 +88,7 @@ Package 7:<br>
 -Entrybox  <br>
 -Checkbox  <br>
 
-Package 8:<br>
+### Package 8:<br>
 -Radio buttons  <br>
 -Scale  <br>
 -Listbox  <br>
@@ -100,7 +100,7 @@ Package 8:<br>
 -Menubar  <br>
 -Frames  <br>
 
-Package 9:<br>
+### Package 9:<br>
 -New windows  <br>
 -Window tabs  <br>
 -Grid  <br>
@@ -112,7 +112,7 @@ Package 9:<br>
 -Move images w/ keys  <br>
 -Animations  <br>
 
-Package 10:<br>
+### Package 10:<br>
 -Multiple animations  <br>
 -Clock program  <br>
 -Send an email  <br>
