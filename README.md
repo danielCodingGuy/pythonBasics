@@ -1,6 +1,6 @@
 # pythonBasics
 
-## Basics of python in nutshell that I made with help of BroCode's course in order to make a repetition
+## Basics of python made in a nutshell in small, simple programs as a part of repetition for myself
 
 ## Currently finished in Repository:<br>
 Variables  <br>
