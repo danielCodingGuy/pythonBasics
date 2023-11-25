@@ -1,14 +1,14 @@
 # pythonBasics
 ##Basics of python in nutshell that I made with help of BroCode's course in order to make a repetition
 #Currently finished in Repository:
-Variables
-Multiple assignment
-String methods
-Type cast
-User input
-Math functions
-String slicing
-If statements
+Variables  <br>
+Multiple assignment  <br>
+String methods  <br>
+Type cast  <br>
+User input  <br>
+Math functions  <br>
+String slicing  <br>
+If statements  <br>
 Logical operators
 While loops
 For loops
