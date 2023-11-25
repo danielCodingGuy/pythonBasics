@@ -1,6 +1,8 @@
 # pythonBasics
-Basics of python in nutshell that I made with help of BroCode's course in order to make a repetition
-Currently finished in Repository:<br>
+
+## Basics of python in nutshell that I made with help of BroCode's course in order to make a repetition
+
+## Currently finished in Repository:<br>
 Variables  <br>
 Multiple assignment  <br>
 String methods  <br>
