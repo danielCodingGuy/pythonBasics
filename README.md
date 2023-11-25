@@ -4,7 +4,7 @@
 
 ## Currently finished in Repository:<br>
 
-Package 1:
+Package 1:<br>
 -Variables  <br>
 -Multiple assignment  <br>
 -String methods  <br>
@@ -16,7 +16,7 @@ Package 1:
 -Logical operators  <br>
 -While loops  <br>
 
-Package 2:
+Package 2:<br>
 -For loops  <br>
 -Nested loops  <br>
 -Break continue pass  <br>
@@ -28,7 +28,7 @@ Package 2:
 -Indexing  <br>
 -Functions  <br>
 
-Package 3:
+Package 3:<br>
 -Return statement  <br>
 -Keyword arguments  <br>
 -Nested function calls  <br>
@@ -40,7 +40,7 @@ Package 3:
 -Exception handling  <br>
 -File detection  <br>
 
-Package 4:
+Package 4:<br>
 -Read a file  <br>
 -Write a file  <br>
 -Copy a file  <br>
@@ -52,7 +52,7 @@ Package 4:
 -Object Oriented Programming (OOP)  <br>
 -Class variables  <br>
 
-Package 5:
+Package 5:<br>
 -Inheritance  <br>
 -Multilevel inheritance  <br>
 -Multiple inheritance  <br>
@@ -64,7 +64,7 @@ Package 5:
 -Duck typing  <br>
 -Walrus operator  <br>
 
-Package 6:
+Package 6:<br>
 -Functions to variables  <br>
 -Higher order functions  <br>
 -Lambda  <br>
@@ -76,7 +76,7 @@ Package 6:
 -Dictionary comprehensions  <br>
 -Zip function  <br>
 
-Package 7:
+Package 7:<br>
 -If name == '__main__'  <br>
 -Time module  <br>
 -Threading  <br>
@@ -88,7 +88,7 @@ Package 7:
 -Entrybox  <br>
 -Checkbox  <br>
 
-Package 8:
+Package 8:<br>
 -Radio buttons  <br>
 -Scale  <br>
 -Listbox  <br>
@@ -100,7 +100,7 @@ Package 8:
 -Menubar  <br>
 -Frames  <br>
 
-Package 9:
+Package 9:<br>
 -New windows  <br>
 -Window tabs  <br>
 -Grid  <br>
@@ -112,7 +112,7 @@ Package 9:
 -Move images w/ keys  <br>
 -Animations  <br>
 
-Package 10:
+Package 10:<br>
 -Multiple animations  <br>
 -Clock program  <br>
 -Send an email  <br>
