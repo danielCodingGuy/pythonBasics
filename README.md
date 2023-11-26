@@ -17,16 +17,16 @@
 -While loops✔ <br>
 
 ### Package 2:<br>
--For loops  <br>
--Nested loops  <br>
--Break continue pass  <br>
--Lists  <br>
--2D lists  <br>
--Tuples  <br>
--Sets  <br>
--Dictionaries  <br>
--Indexing  <br>
--Functions  <br>
+-For loops✔  <br>
+-Nested loops✔  <br>
+-Break continue pass✔  <br>
+-Lists✔  <br>
+-2D lists✔  <br>
+-Tuples✔  <br>
+-Sets✔  <br>
+-Dictionaries✔  <br>
+-Indexing✔  <br>
+-Functions✔  <br>
 
 ### Package 3:<br>
 -Return statement  <br>
