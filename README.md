@@ -4,7 +4,7 @@
 
 ## Currently finished in Repository:<br>
 
-### Package 1:<br>
+### ✔Package 1:<br>
 -Variables  <br>
 -Multiple assignment  <br>
 -String methods  <br>
