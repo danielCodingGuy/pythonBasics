@@ -4,17 +4,17 @@
 
 ## Currently finished in Repository:<br>
 
-### ✔Package 1:<br>
--Variables  <br>
--Multiple assignment  <br>
--String methods  <br>
--Type cast  <br>
--User input  <br>
--Math functions  <br>
--String slicing  <br>
--If statements  <br>
--Logical operators  <br>
--While loops  <br>
+### Package 1:<br>
+-Variables✔  <br>
+-Multiple assignment✔  <br>
+-String methods✔  <br>
+-Type cast✔  <br>
+-User input✔  <br>
+-Math functions✔  <br>
+-String slicing✔  <br>
+-If statements✔  <br>
+-Logical operators✔  <br>
+-While loops✔ <br>
 
 ### Package 2:<br>
 -For loops  <br>
