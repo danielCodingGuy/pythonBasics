@@ -29,12 +29,12 @@
 -Functions✔  <br>
 
 ### Package 3:<br>
--Return statement  <br>
--Keyword arguments  <br>
--Nested function calls  <br>
--Variable scope  <br>
--*args  <br>
--**kwargs  <br>
+-Return statement✔  <br>
+-Keyword arguments✔  <br>
+-Nested function calls✔  <br>
+-Variable scope✔  <br>
+-*args✔  <br>
+-**kwargs✔  <br>
 -String format  <br>
 -Random numbers  <br>
 -Exception handling  <br>
