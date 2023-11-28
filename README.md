@@ -35,7 +35,7 @@
 -Variable scope✔  <br>
 -*args✔  <br>
 -**kwargs✔  <br>
--String format  <br>
+-String format✔  <br>
 -Random numbers  <br>
 -Exception handling  <br>
 -File detection  <br>
