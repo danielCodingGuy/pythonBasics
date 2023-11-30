@@ -36,9 +36,9 @@
 -*args✔  <br>
 -**kwargs✔  <br>
 -String format✔  <br>
--Random numbers  <br>
--Exception handling  <br>
--File detection  <br>
+-Random numbers✔  <br>
+-Exception handling✔  <br>
+-File detection✔  <br>
 
 ### Package 4:<br>
 -Read a file  <br>
