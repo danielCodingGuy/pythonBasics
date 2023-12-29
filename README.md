@@ -41,9 +41,9 @@
 -File detection✔  <br>
 
 ### Package 4:<br>
--Read a file  <br>
--Write a file  <br>
--Copy a file  <br>
+-Read a file✔  <br>
+-Write a file✔  <br>
+-Copy a file✔  <br>
 -Move a file  <br>
 -Delete a file  <br>
 -Modules  <br>
