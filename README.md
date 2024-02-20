@@ -49,8 +49,8 @@
 -Modules✔  <br>
 -Rock, paper, scissors game✔  <br>
 -Quiz game✔  <br>
--Object Oriented Programming (OOP)  <br>
--Class variables  <br>
+-Object Oriented Programming (OOP)✔  <br>
+-Class variables✔  <br>
 
 ### Package 5:<br>
 -Inheritance  <br>
