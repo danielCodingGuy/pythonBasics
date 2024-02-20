@@ -45,10 +45,10 @@
 -Write a file✔  <br>
 -Copy a file✔  <br>
 -Move a file✔  <br>
--Delete a file  <br>
--Modules  <br>
--Rock, paper, scissors game  <br>
--Quiz game  <br>
+-Delete a file✔  <br>
+-Modules✔  <br>
+-Rock, paper, scissors game✔  <br>
+-Quiz game✔  <br>
 -Object Oriented Programming (OOP)  <br>
 -Class variables  <br>
 
