@@ -53,9 +53,9 @@
 -Class variables✔  <br>
 
 ### Package 5:<br>
--Inheritance  <br>
--Multilevel inheritance  <br>
--Abstract classes  <br>
+-Inheritance✔  <br>
+-Multilevel inheritance✔  <br>
+-Abstract classes✔  <br>
 -Zip function  <br>
 -GUI <br>
 -Open a file (file dialog)  <br>
