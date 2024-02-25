@@ -9,7 +9,7 @@ def saveFile():
                                     filetypes=[
                                         ("Text file",".txt"),
                                         ("HTML file",".HTML"),
-                                        ("All file",".*")
+                                        ("All files",".*")
                                     ])
     if file is None: # This line helps with not getting exceptions in our IDE if file was not saved.
         return
