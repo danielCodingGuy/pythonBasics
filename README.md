@@ -56,10 +56,10 @@
 -Inheritance✔  <br>
 -Multilevel inheritance✔  <br>
 -Abstract classes✔  <br>
--Zip function  <br>
--GUI <br>
--Open a file (file dialog)  <br>
--Save a file (file dialog)  <br>
+-Zip function✔  <br>
+-GUI✔ <br>
+-Open a file (file dialog)✔  <br>
+-Save a file (file dialog)✔  <br>
 -Multiple animations  <br>
 -Clock program  <br>
 -Send an email  <br>
