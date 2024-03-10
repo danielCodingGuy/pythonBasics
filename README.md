@@ -60,8 +60,8 @@
 -GUI✔ <br>
 -Open a file (file dialog)✔  <br>
 -Save a file (file dialog)✔  <br>
--Multiple animations  <br>
--Clock program  <br>
+-Multiple animations✔  <br>
+-Clock program✔  <br>
 -Send an email  <br>
 
 ### Package 6:<br>
