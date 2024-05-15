@@ -62,13 +62,10 @@
 -Save a file (file dialog)✔  <br>
 -Multiple animations✔  <br>
 -Clock program✔  <br>
--Send an email  <br>
+-Send an email✔  <br>
 
 ### Package 6:<br>
--Run with command prompt  <br>
--Pip  <br>
--Py to exe  <br>
 -Calculator program  <br>
--Text editor program  <br>
+-Text editor program✔  <br>
 -Tic tac toe game  <br>
 -Snake game
